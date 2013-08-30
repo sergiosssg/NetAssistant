@@ -1,0 +1,3 @@
+All tasks are divided into two main types.
+First one always run local on the same computer in separeted thread.
+Otherways second type run remotedly.
