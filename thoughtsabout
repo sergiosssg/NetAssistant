@@ -3,3 +3,11 @@ First one always run local on the same computer in separeted thread.
 Otherways second type run remotedly.
 So, all classes need to extend SimpleTaskhere, furthermore those one use remote calls must be composed of two parts, one
 is class inherited from  SimpleTaskhere, while other part extends interface RemoteTask
+
+
+
+And so ...
+
+All tasks are divided into two main sort
+First one - the task allways runs on the same local machine, where it was started,
+Second part of tasks run its code remotely.
