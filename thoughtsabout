@@ -11,3 +11,9 @@ And so ...
 All tasks are divided into two main sort
 First one - the task allways runs on the same local machine, where it was started,
 Second part of tasks run its code remotely.
+
+
+
+TaskLouncher look through TaskQeueu for task which needed be started.
+
+
