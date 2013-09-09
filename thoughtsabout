@@ -9,11 +9,16 @@ is class inherited from  SimpleTaskhere, while other part extends interface Remo
 And so ...
 
 All tasks are divided into two main sort
-First one - the task allways runs on the same local machine, where it was started,
+First one - the task always runs on the same local machine, where it was started,
 Second part of tasks run its code remotely.
 
 
 
-TaskLouncher look through TaskQeueu for task which needed be started.
+TaskLouncher look through TaskQueueu for task which needed be started.
+
+All types of tasks, which needed be started should implement SimpleTaskRunning
+
+
+
 
 
