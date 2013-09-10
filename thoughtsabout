@@ -21,7 +21,7 @@ All types of tasks, which needed be started should implement SimpleTaskRunning
 
 Some examples of tasks :
 
-There are tasks, interrogate devices nodes and so on, (e.g. operability of hosts in our network) :
+-There are tasks, interrogate devices nodes and so on, (e.g. operability of hosts in our network) :
 
 ---- Polling Types
      ---------- Network polling;
@@ -47,5 +47,18 @@ There are tasks, interrogate devices nodes and so on, (e.g. operability of hosts
        ---------- Network services, e.g. dns, mail, ftp, xmpp and so on; 
       
  
+- There are tasks, working with reports, (creating, editing, storing and utilization) :
 
+
+
+- Manipulating with user GUI forms of input/output data :
+
+
+- Tasks, to be dealing with various data providers and consumers :
+
+
+- Specific administration task for keeping system in order :
+
+
+- System property reading/writing tasks : 
      
