@@ -38,7 +38,14 @@ There are tasks, interrogate devices nodes and so on, (e.g. operability of hosts
      ---------- Polling Objects, (e.g. metwork hosts, installed software on server or working station and so on);
      
  ---- Here there are examples of Pollings :
- 
+      ---------- polling of network for working availability control;
+      ---------- polling for station/server software, drivers, hardware feature presence;
+      ---------- and so on;
+
+ ---- Examples of objects, to which polling affected :
+       ---------- Hosts in local network;
+       ---------- Network services, e.g. dns, mail, ftp, xmpp and so on; 
+      
  
 
      
