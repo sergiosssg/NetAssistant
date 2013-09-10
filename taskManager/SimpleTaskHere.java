@@ -1,7 +1,7 @@
 /**
  * 
  */
-package TaskManager;
+package taskManager;
 
 import java.rmi.Remote;
 

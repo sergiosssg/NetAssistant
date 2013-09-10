@@ -1,4 +1,4 @@
-package TaskManager;
+package taskManager;
 
 
 interface SimpleTask
