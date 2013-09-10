@@ -23,11 +23,10 @@ Some examples of tasks :
 
 -There are tasks, interrogate devices nodes and so on, (e.g. operability of hosts in our network) :
 
----- Polling Types
+---- Polling Types :
      ---------- Network polling;
      ---------- Stationary system polling;
      ---------- User's polling;
-
      
 ---- Draft polling structure :
      ---------- Type;
@@ -49,15 +48,26 @@ Some examples of tasks :
  
 - There are tasks, working with reports, (creating, editing, storing and utilization) :
 
-
+ ---- Reports types :
+      ---------- Reports, with table outline, where there are seated various types of data in each individual row of the table;  
+      ---------- Reports, with table outline, where there are seated same type of data in each individual row of the table;
+      ---------- Simple Reports, with one table inside it;
+      ---------- Constituent Reports, where there are many tables and with many relations between them;
+                    
+      
+      
+      
 
 - Manipulating with user GUI forms of input/output data :
+
 
 
 - Tasks, to be dealing with various data providers and consumers :
 
 
+
 - Specific administration task for keeping system in order :
+
 
 
 - System property reading/writing tasks : 
